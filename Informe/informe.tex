@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\renewcommand{\baselinestretch}{1.5}
+\usepackage[left=3cm,top=2cm,right=2cm,bottom=2cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{tabularx}
+\usepackage[titletoc,toc]{appendix}
+\usepackage[font=scriptsize]{caption}
+\usepackage{mwe}
+\usepackage{float}
+
+\includeonly{
+  portada,
+  introduccion,
+  antecedentes,
+  objetivos,
+  descripcion,
+  procedimiento,
+  conclusiones
+}
+
+\begin{document}
+    \include{portada}
+
+\clearpage
+    \tableofcontents
+\thispagestyle{empty}
+
+    \include{antecedentes}
+    \include{objetivos}
+    \include{descripcion}
+    \include{procedimiento}
+
+\end{document}
