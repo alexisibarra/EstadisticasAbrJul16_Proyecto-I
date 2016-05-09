@@ -1,0 +1,5 @@
+b-1.0.0
+  - incluye carpetas para el informe, data y scripts de R
+  - Incluye informe con secciones de antecedentes, objetivos y descripcion del experimento desarrolladas
+  - Incluye script principal de R que lee y etiqueta la data
+  - Incluye la data a analizar
