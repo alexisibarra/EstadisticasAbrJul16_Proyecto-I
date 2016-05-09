@@ -1,4 +1,4 @@
-# Estadisticas para ingenieros, Abril-Julio 2016: Proyecto I
+# Estadísticas para ingenieros, Abril-Julio 2016: Proyecto I
 
 En la carpeta Informe se encuentra toda la información relacionada con el experimento y el informe llevado a cabo para obtener meta-información de la dinámica de las interacciones sociales en redes sociales como twitter.
 
