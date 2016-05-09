@@ -7,7 +7,7 @@ Tanto los scripts empleados en R como la Data usada se encuentran en carpetas al
 ## Instalación
 
 - Para generar el informe:
-    - necesita un compilador de (latex)[https://www.latex-project.org/] 
+    - necesita un compilador de [latex](https://www.latex-project.org/) 
     - Dirigirse a la carpeta `Informe` y ejecutar el comando `make`
-- Para correr los scripts necesita (`R`)[https://www.r-project.org/] y, si lo desea, (`R Studio`)[https://www.rstudio.com/] para una mejor visualización. 
+- Para correr los scripts necesita [R](https://www.r-project.org/) y, si lo desea, [R Studio](https://www.rstudio.com/) para una mejor visualización. 
 
